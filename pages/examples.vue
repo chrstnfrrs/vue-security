@@ -5,7 +5,6 @@
       <li><nuxt-link class="pageLink" to="exampleOne">Example One</nuxt-link></li>
       <li><nuxt-link class="pageLink" to="exampleTwo">Example Two</nuxt-link></li>
       <li><nuxt-link class="pageLink" to="exampleThree">Example Three</nuxt-link></li>
-      <li><nuxt-link class="pageLink" to="exampleFour">Example Four</nuxt-link></li>
     </ul>
   </div>
 </template>
